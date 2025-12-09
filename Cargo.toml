@@ -4,3 +4,9 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+eframe = "0.24"
+egui = "0.24"
+aes-gcm = "0.10"
+rand = "0.8"
+base64 = "0.21"
+rfd = "0.12"
